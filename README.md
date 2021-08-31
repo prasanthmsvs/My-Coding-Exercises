@@ -1,2 +1,3 @@
 # My-Codes
-I collect all my codes here. 
+
+I am learning to code and I collect all of my practice codes here. 
